@@ -1,0 +1,1 @@
+This project helps automate some commands on the alx linux terminal.
